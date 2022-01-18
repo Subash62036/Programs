@@ -17,7 +17,7 @@ class Reverse{
 			  
 		  }
 		  System.out.println("Reverse of given no =" + reverse);
-		
+		// sum of array lements &finding largest value of array
 	  }
 }
 
