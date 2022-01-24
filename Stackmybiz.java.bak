@@ -10,7 +10,7 @@ class Honeycum
 		     Id=id;
 		     Salary=salary;
 		   }
-	   public void  display( )
+	  void  display( )
 	      {
 		    System.out.println("Name =" +Name + "\n Employee Id =" +Id + "\n Employee Salary=" + Salary );
 	       }  

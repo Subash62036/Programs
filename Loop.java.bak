@@ -3,7 +3,7 @@ public class Loop
 {
   public static void main(String[]args)
   {
-    while(1)
+    while(true)
        {
        
          System.out.println("Enter any two number");

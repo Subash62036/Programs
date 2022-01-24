@@ -10,7 +10,7 @@ class Honeycum
 		     Id=id;
 		     Salary=salary;
 		   }
-	  void  display( )
+	   void  display( )
 	      {
 		    System.out.println("Name =" +Name + "\n Employee Id =" +Id + "\n Employee Salary=" + Salary );
 	       }  
@@ -34,7 +34,7 @@ class Honeycum
 		 obj.employee("Subash",10001,10050);
 		 obj.display();
 		 obj.facilities("Benq",400);
-		 obj.show();
+		 obj.show( );
 	}
 			
  }
